@@ -45,7 +45,7 @@
       <a href="#beta-features">Beta Features</a> <!-- Fixed capitalization and spacing -->
       <ul>
         <li><a href="#important">Important</a></li>
-        <li><a href="#holyswapper">HolySwapper</a></li>
+        <li><a href="#holycss">HolyCSS</a></li>
         <li><a href="#single-key-login">Single Key Login</a></li>
         <li><a href="#unlimited-fps">Unlimited FPS</a></li>
         <li><a href="#helpful-flags">Helpful Flags</a></li>
@@ -128,7 +128,16 @@ Easily manage and switch between your accounts using our Alt Manager.
 
 ---
 
-### HolySwapper
+## HolyCSS
+
+#### Custom 
+
+Uses a custom CSS that you can set using these options.
+
+<a href="https://github.com/vaqqq/holy-client-lite">
+  <img src=
+
+#### Swapper
 
 Path: `%appData%/Roaming/holy/HolySwapper`
 
