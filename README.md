@@ -46,6 +46,7 @@
       <ul>
         <li><a href="#important">Important</a></li>
         <li><a href="#holycss">HolyCSS</a></li>
+        <li><a href="#discord-rpc">Discord RPC</a></li>
         <li><a href="#single-key-login">Single Key Login</a></li>
         <li><a href="#unlimited-fps">Unlimited FPS</a></li>
         <li><a href="#helpful-flags">Helpful Flags</a></li>
