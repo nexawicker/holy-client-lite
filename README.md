@@ -171,6 +171,21 @@ Settings for your discord rich presence.
 </a>
 
 ---
+### Quality of Life
+
+#### Custom Clan/Name 
+You can set a custom name and/or clan tag with these settings.
+
+#### Custom Loading Screen
+
+
+
+---
+### UI Changes
+
+
+
+---
 
 ### Single Key Login
 
