@@ -153,7 +153,7 @@ Insert your CSS files here to apply them in-game. Name the game CSS as `main_cus
 Allows you to choose one of the CSSes that are built into the client.
 
 <a href="https://github.com/vaqqq/holy-client-lite">
-  <img src="images/clicss.png" alt="Built-in CSS Setting" width="512" height="88">
+  <img src="images/clicss.png" alt="Built-in CSS Setting" width="512" height="50%">
 </a>
 
 #### Disabled
@@ -176,14 +176,28 @@ Settings for your discord rich presence.
 #### Custom Clan/Name 
 You can set a custom name and/or clan tag with these settings.
 
+<a href="https://github.com/vaqqq/holy-client-lite">
+  <img src="images/customname.png" alt="Built-in CSS Setting" width="512" height="50%">
+</a>
+
 #### Custom Loading Screen
 
+Customize the loading screen you see when loading into a new lobby.
 
+<sup><sup>Why is it in its own thing? I don't know, I'm just the guy who does the readme.</sup>
+
+<a href="https://github.com/vaqqq/holy-client-lite">
+  <img src="images/ls_sett.png" alt="Built-in CSS Setting" width="512" height="50%">
+</a>
 
 ---
 ### UI Changes
 
+This group of settings enables or disables certain UI elements that people may find annoying.
 
+<a href="https://github.com/vaqqq/holy-client-lite">
+  <img src="images/ui_sett.png" alt="Built-in CSS Setting" width="512" height="50%">
+</a>
 
 ---
 
@@ -235,6 +249,8 @@ Our beloved contributors:
 > [@dunedude]() | Funny features, Developer
 
 > [@Error]() | Client structure
+
+> [@nexawicker]() | Funny readme gremlin
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
