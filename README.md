@@ -167,7 +167,7 @@ Disables any client CSS that is being used.
 Settings for your discord rich presence.
 
 <a href="https://github.com/vaqqq/holy-client-lite">
-  <img src="images/discord.png" alt="Built-in CSS Setting" width="512" height="183">
+  <img src="images/discord.png" alt="Built-in CSS Setting" width="512" height="50%">
 </a>
 
 ---
@@ -180,15 +180,27 @@ You can set a custom name and/or clan tag with these settings.
   <img src="images/customname.png" alt="Built-in CSS Setting" width="512" height="50%">
 </a>
 
+#### Custom Weapon Picture
+
+This setting allows you to add a custom image of your choosing to the little weapon preview box in the bottom right of your screen.
+
 #### Custom Loading Screen
 
 Customize the loading screen you see when loading into a new lobby.
 
-<sup><sup>Why is it in its own thing? I don't know, I'm just the guy who does the readme.</sup>
+<sup><sup>Why is it in its own menu divider? Don't ask me, I didn't code it.</sup>
 
 <a href="https://github.com/vaqqq/holy-client-lite">
   <img src="images/ls_sett.png" alt="Built-in CSS Setting" width="512" height="50%">
 </a>
+
+#### Clan colors
+
+Enables or disables the colors that clans partnered with Holy Client have.
+
+#### Auto Spectate
+
+Automatically Turns on spectate mode for you.
 
 ---
 ### UI Changes
